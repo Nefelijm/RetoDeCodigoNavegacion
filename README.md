@@ -1,22 +1,26 @@
 
-*** ELEMENTOS DE NAVEGACION DE LOS SIGUIENTES SITES  ***
+**** ELEMENTOS DE NAVEGACION DE LOS SIGUIENTES SITES  ****
 
-****************************************************BREATHERr**************************************************
+**********BREATHER********
 
-![recursos](images/breather1.png)
+-![recursos](images/breather1.png)
 
-![recursos](images/breather2.png)
+**************************************
 
-![recursos](images/breather3.png)
+-![recursos](images/breather2.png)
 
-![recursos](images/breather4.png)
+**************************************
 
-![recursos](images/breather5.png)
+-![recursos](images/breather3.png)
+
+-![recursos](images/breather4.png)
+
+-![recursos](images/breather5.png)
 
 
 
 
-****************************************************GITHUB************************************************
+*************************GITHUB*******
 
 ![recursos](images/github1.png)
 
@@ -27,7 +31,7 @@
 ![recursos](images/github4.png)
 
 
-****************************************************MEDIUM************************************************
+***********************MEDIUM**********
 
 ![recursos](images/medium1.png)
 
