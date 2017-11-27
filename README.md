@@ -3,20 +3,16 @@
 
 **********BREATHER********
 
-------------------------------------
-![recursos](images/breather1.png)
 
----------------------------------------
+1. ![recursos](images/breather1.png)
 
--![recursos](images/breather2.png)
+2. ![recursos](images/breather2.png)
 
--------------------------------------
+3. ![recursos](images/breather3.png)
 
--![recursos](images/breather3.png)
+4. ![recursos](images/breather4.png)
 
--![recursos](images/breather4.png)
-
--![recursos](images/breather5.png)
+5. ![recursos](images/breather5.png)
 
 
 
