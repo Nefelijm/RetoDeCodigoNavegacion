@@ -3,8 +3,9 @@
 
 **********BREATHER********
 
+**______________________________________________________**
 
-1. ![recursos](images/breather1.png)
+ ![recursos](images/breather1.png)
 
 2. ![recursos](images/breather2.png)
 
